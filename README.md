@@ -33,7 +33,9 @@ PyTorch >= 1.10
 
 多个数据目录支持按编号（例如：./1, ./2）统一存放。
 
-运行训练脚本：```python U-Net_alldata_test1.py```
+运行训练脚本：
+
+```python U-Net_alldata_test1.py```
 
 模型参数和预测图像将自动保存到以下目录：
 
